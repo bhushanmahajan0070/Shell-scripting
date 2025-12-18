@@ -5,7 +5,7 @@
 echo "Hello, this is first shell scripting" 
 
 # this command will print this line
-# "Hello, this is first shell scripting"
+# "Hello, this is first shell scripting" 
 
 
 
